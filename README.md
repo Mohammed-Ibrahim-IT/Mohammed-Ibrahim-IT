@@ -1,49 +1,21 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-<p>Welcome to my page! <br/> I'm <b>Mohammed Ibrahim</b>, a Computer Science & Engineering student building college projects and practicing problem solving in <img src="https://cdn-icons-png.flaticon.com/512/197/197524.png" width="13"/> <b>Egypt</b>.</p>
-
-<h3>Things I code with</h3>
+<h2>Hey 👋, I'm Mohammed Ibrahim</h2>
+<p>I'm a university computer science student building college projects and practicing problem solving. Currently focused on <strong>C++</strong>, <strong>OOP</strong>, and <strong>Data Structures</strong> using <strong>Visual Studio</strong> and <strong>GitHub</strong>.</p>
 <p>
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mohamed-ibrahim-7590073a0" target="_blank"><img src="https://img.shields.io/badge/-@mohamed--ibrahim-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn" alt="LinkedIn Badge"></a>
+  <a href="https://www.instagram.com/mohamed_med7at5" target="_blank"><img src="https://img.shields.io/badge/-@mohamed__med7at5-E4405F?style=flat-square&amp;labelColor=E4405F&amp;logo=Instagram" alt="Instagram Badge"></a>
 </p>
 
-<h3>College & Course Projects</h3>
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>📚 Course / Project</b></td>
-      <td><b>🛠 Main Stack</b></td>
-      <td><b>🔗 Repository</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Linked List Implementation & Operations</b></td>
-      <td>C++</td>
-      <td><a href="https://github.com/YOUR_GITHUB_USERNAME/linked-list-cpp">View Repo</a></td>
-    </tr>
-    <tr>
-      <td><b>College Coursework & Lab Tasks</b></td>
-      <td>C++</td>
-      <td><a href="https://github.com/YOUR_GITHUB_USERNAME/college-projects-cpp">View Repo</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<h3>Focus Areas</h3>
+<h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li><b>C++ Fundamentals & OOP:</b> Writing structured, clean C++ code for university assignments.</li>
-  <li><b>Data Structures:</b> Implementing Linked Lists and core data structures from scratch.</li>
-  <li><b>Version Control:</b> Organizing and documenting college projects using Git and GitHub.</li>
+  <li>🎓 University student working on college assignments, labs, and course projects.</li>
+  <li>🧐 Currently learning and practicing <strong>C++</strong>, <strong>OOP</strong>, and <strong>Data Structures</strong>.</li>
+  <li>💻 Coding and managing my college repositories on <strong>Visual Studio</strong> and <strong>GitHub</strong>.</li>
+  <li>💬 Feel free to connect or message me on <strong>LinkedIn</strong> or <strong>Instagram</strong>.</li>
 </ul>
 
-<h3>Where to find me</h3>
-<p>
-  <a href="https://www.instagram.com/mohamed_med7at5" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<h2>🚀 Language & Tools</h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="32" />
 </p>
-
----
-<p align="center">Always learning, building, and documenting my college journey.</p>
