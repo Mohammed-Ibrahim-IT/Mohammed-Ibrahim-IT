@@ -4,6 +4,7 @@
   <a href="https://www.linkedin.com/in/mohamed-ibrahim-7590073a0" target="_blank"><img src="https://img.shields.io/badge/-@mohamed--ibrahim-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn" alt="LinkedIn Badge"></a>
   <a href="https://www.instagram.com/mohamed_med7at5" target="_blank"><img src="https://img.shields.io/badge/-@mohamed__med7at5-E4405F?style=flat-square&amp;labelColor=E4405F&amp;logo=Instagram" alt="Instagram Badge"></a>
 </p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
